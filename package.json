@@ -1,9 +1,9 @@
 {
-  "name": "ynotv",
+  "name": "ynotv-enhanced",
   "version": "1.0.0",
   "private": true,
   "description": "Desktop IPTV player with mpv",
-  "homepage": "https://github.com/tbeezy/ynotv",
+  "homepage": "https://github.com/moxman1/ynotv_enhanced",
   "author": {
     "name": "tbeezy",
     "email": "tbeezy@users.noreply.github.com"

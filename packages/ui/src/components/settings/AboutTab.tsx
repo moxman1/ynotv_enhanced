@@ -175,7 +175,7 @@ export function AboutTab() {
           <div className="about-links" style={{ marginBottom: '24px', display: 'flex', gap: '16px' }}>
             <button
               className="sync-btn"
-              onClick={() => openLink('https://github.com/tbeezy/ynotv')}
+              onClick={() => openLink('https://github.com/moxman1/ynotv_enhanced')}
               style={{ maxWidth: '140px' }}
             >
               GitHub
